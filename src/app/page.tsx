@@ -7,11 +7,11 @@ import Questao5 from "@/components/questao5";
 export default function Home() {
   return (
     <div>
-      {/* <Questao1/>  */}
+      <Questao1/> 
       {/* <Questao2/> */}
       {/* <Questao3/> */}
       {/* <Questao4/> */}
-      <Questao5/>
+      {/* <Questao5/> */}
     </div>
   );
 }
